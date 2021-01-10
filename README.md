@@ -7,9 +7,9 @@ I wanted to create something that is simple and reusable. After lots of searchin
 
 There are lots of improvements that can be made to this since there is little error checking at this time.
 
-Only three files are included:
-index.html <- contact form HTML
-form.js <- JavaScript code used to generate the request
+Only three files are included:<br>
+index.html <- contact form HTML<br>
+form.js <- JavaScript code used to generate the request<br>
 mail.php <- php file used to mail out the message from the form
 
 Contact me at <a href="mailto:nat@cliowebsites.com" target="_blank">nat@cliowebsites.com</a> or visit my website <a href="https://cliowebsites.com" target="_blank">cliowebsites.com</a>
